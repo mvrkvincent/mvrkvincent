@@ -1,6 +1,8 @@
-# Mark Vincent Rodriguez
+![header](https://github.com/mvrkvincent/mvrkvincent/blob/main/header.png?raw=true)
 
-👋 Hey there! I’m **Mark**, a software engineer with a passion for technical education, content creation, and making complex tech concepts easy to understand. Over the years, I’ve honed my skills in breaking down everything from core computer science principles to the latest tech trends into engaging, accessible content. Whether it’s crafting technical docs, writing blog posts, or producing multimedia content, I love making tech engaging and accessible. I also thrive on collaborating across teams to ensure everything I create hits the mark, both technically and creatively! 
+# 👋 Hey there, I’m **Mark!**
+
+I'm a software engineer with a passion for technical education, content creation, and making complex tech concepts easy to understand. Over the years, I’ve honed my skills in breaking down everything from core computer science principles to the latest tech trends into engaging, accessible content. Whether it’s crafting technical docs, writing blog posts, or producing multimedia content, I love making tech engaging and accessible. I also thrive on collaborating across teams to ensure everything I create hits the mark, both technically and creatively! 
 
 ---
 
