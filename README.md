@@ -23,11 +23,6 @@ I'm a software engineer with a passion for technical education, content creation
 
 ---
 
-## 🎯 Goals
-I’m focusing my career on developer advocacy, technical writing, and program management where I can combine my technical expertise with my passion for content creation, education, and generally nerding out! I’m excited to produce technical documentation, guides, and content that educates and empowers individuals in the ever-evolving tech space.
-
----
-
 ## 🔗 Connect with Me
 - **Email**: [mvrktopher@gmail.com](mailto:mvrktopher@gmail.com)
 - **GitHub**: [github.com/mvrkvincent](https://github.com/mvrkvincent)
