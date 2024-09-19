@@ -7,10 +7,11 @@ I'm a software engineer with a passion for technical education, content creation
 ---
 
 ## 💡 What I Do
-- **Technical Content Creation**: From detailed guides and documentation to blog posts and webinars, I turn complex technical topics into easy-to-follow content.
-- **Team Leadership & Mentorship**: I lead a distributed team of career advisors and technical instructors, fostering collaboration and growth among up and coming developers.
-- **Emerging Tech**: I research and develop educational resources on trending technologies like AI/ML and cloud infrastructure.
-- **Cross-Functional Collaboration**: I work with engineers, product managers, and leadership to ensure the technical accuracy and effectiveness of the resources I create.
+- 👨‍💻 **Full-Stack Development**: Experienced in building and managing applications from front-end user interfaces to back-end services and databases.
+- ✍️ **Technical Content Creation**: From detailed guides and whitepapers to blog posts and webinars, I turn complex technical topics into easy-to-follow content.
+- 🧑‍🏫 **Team Leadership & Mentorship**: I lead a distributed team of career advisors and technical instructors, fostering collaboration and growth.
+- 🤖 **Emerging Tech**: I research and develop educational resources on trending technologies like AI/ML and cloud infrastructure.
+- 🤝 **Cross-Functional Collaboration**: I work with engineers, product managers, and leadership to ensure the technical accuracy and effectiveness of the resources I create.
   
 ---
 
