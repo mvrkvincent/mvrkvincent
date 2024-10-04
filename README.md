@@ -26,5 +26,5 @@ I'm a software engineer with a passion for technical education, content creation
 
 ## 🔗 Connect with Me
 - **Email**: [mvrktopher@gmail.com](mailto:mvrktopher@gmail.com)
-- **GitHub**: [github.com/mvrkvincent](https://github.com/mvrkvincent)
+- **My Site**: [mvrk.dev](https://mvrk.dev)
 - **LinkedIn**: [linkedin.com/in/mvrkvincent](https://linkedin.com/in/mvrkvincent)
